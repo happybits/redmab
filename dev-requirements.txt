@@ -1,9 +1,9 @@
 -r requirements.txt
-coverage >= 3.7.1
+coverage >= 5.3
 tox
 flake8
 python-coveralls
-redislite>=3.0.271
+redislite>=5.0.165407
 pytest-benchmark
 twine
 wheel
